@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de24017b-093f-4c0c-ae6a-590923f8cab7" name="Changes" comment="" />
+    <list default="true" id="de24017b-093f-4c0c-ae6a-590923f8cab7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/demoThymeleaf/src/main/java/com/example/demothymeleaf/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoThymeleaf/src/main/java/com/example/demothymeleaf/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoThymeleaf/src/main/java/com/example/demothymeleaf/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoThymeleaf/src/main/java/com/example/demothymeleaf/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoThymeleaf/src/main/java/com/example/demothymeleaf/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoThymeleaf/src/main/java/com/example/demothymeleaf/service/ICrudService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoThymeleaf/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoThymeleaf/src/main/webapp/WEB-INF/views/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testspring2Class/src/main/java/com/example/testspring2class/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testspring2Class/src/main/java/com/example/testspring2class/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testspring2Class/src/main/java/com/example/testspring2class/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testspring2Class/src/main/java/com/example/testspring2class/model/Classroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testspring2Class/src/main/java/com/example/testspring2class/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testspring2Class/src/main/webapp/WEB-INF/view/display.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +36,12 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="testspring" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -40,7 +61,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/DELL/Desktop/Module4/testspring"
+    "last_opened_file_path": "C:/Users/DELL/Desktop/Module4"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -52,6 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676563701403</updated>
       <workItem from="1676563703811" duration="54000" />
+      <workItem from="1676946325256" duration="44000" />
     </task>
     <servers />
   </component>
